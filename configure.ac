@@ -25,7 +25,7 @@ AC_TYPE_PID_T
 
 AC_PROG_INSTALL
 
-AC_CONFIG_FILES([Makefile src/Makefile])
+AC_CONFIG_FILES([Makefile src/Makefile man/Makefile])
 
 AC_OUTPUT
 
